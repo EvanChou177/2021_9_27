@@ -71,7 +71,7 @@ alert(s);
 
 Conlons can be used to align columns.
 | Tables | Are | Cool |
-| :------ |:--- | :--- |
+| :------ |:---: | ---: |
 | col3 is | right-aligned | $1600 |
 | col2 is | centered | $12 |
 | zebra stripes | are neat | $1|

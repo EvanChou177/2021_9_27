@@ -9,7 +9,7 @@
 ### 組員：c10911850 李秉叡
 ### 組員：c10911852 周柏亨
 
-#### 題目：
+#### 題目：仍在人生的旅途中尋找著
 
 🐧:penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin::penguin:
 
@@ -34,18 +34,54 @@ Combined emphasis with ***asterisks*** and ***underscores***.
 Strikethrough uses two tildes. ~~Scratch this~~.
 
 ---
+
+ 1. first ordered list item  
+ 2. Another item  
+  ..*Unordered sub-list.  
+ 3. Actual numbers don't matter just that it's a number  
+  ...1. Ordered sub-list  
+  ...2. 2nd  
+ 4. And another itme.  
+  ...* note 1  
+  ...* note 2  
+  *** note 3  
+
+---
+
 - [x] todo list
 - [ ] 2nd things
+
 ---
+
 #### python code
 ```python
 s = "Python syntax highlighting"
 print s
 ```
+
 ---
+
 #### javascript
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+---
+
+Conlons can be used to align columns.
+| Tables | Are | Cool |
+| :------ |:--- | :--- |
+| col3 is | right-aligned | $1600 |
+| col2 is | centered | $12 |
+| zebra stripes | are neat | $1|
+
+There must be at least 3 dashes separating each header cell.  
+The outer pipes(|) are optional, and you don't need to make the  
+raw Markdown line up prettily. You can also use in line Markdown.
+| Markdown | Less | Pretty |
+| :------ |:--- | :--- |
+| Still | renders | **nicely** |
+| 1 | 2 | 3 |
+
 ---

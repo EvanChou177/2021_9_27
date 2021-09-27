@@ -23,6 +23,29 @@ This is a `text`
 ```
 This a a long quote.
 ```
+---
 
--[]todo list
--[]2nd things
+Emphasis, aka *italics*, with *asterisks* or *underscores*
+
+Strong emphasis, aka bold, with **asterisks** and **undersocres**. 
+
+Combined emphasis with ***asterisks*** and ***underscores***.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
+---
+- [x] todo list
+- [ ] 2nd things
+---
+#### python code
+```python
+s = "Python syntax highlighting"
+print s
+```
+---
+#### javascript
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+---

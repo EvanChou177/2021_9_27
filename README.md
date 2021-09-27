@@ -17,3 +17,4 @@
 
 ![icon](https://yt3.ggpht.com/ytc/AKedOLSl-NlRadhQyTQK60D09GuY3NuWqQ984S4jGfnO=s88-c-k-c0x00ffffff-no-rj "my YT channel")
 
+[![Best video](https://i9.ytimg.com/vi/A6Kq8onvrIk/mq1.jpg?sqp=CKjvxYoG&rs=AOn4CLCXT3N7lw25OfNGAZJXb5305V8C2g)](https://youtu.be/A6Kq8onvrIk"Best video")
